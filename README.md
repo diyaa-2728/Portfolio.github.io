@@ -11,4 +11,4 @@ Then the list of certificates,Achievements and licenses you have.
 It also has a section where it shows some recent work. 
 And at the bottom it has a form, and at the end with a footer.
 
-Rajan Kumar
+Diya garg
